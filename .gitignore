@@ -1,0 +1,12 @@
+# Archivos con credenciales
+**/wifi_config.h
+**/secrets.h
+**/*_credentials.h
+
+# Archivos de entorno
+.env
+.env.local
+
+# PlatformIO
+.pio/
+.vscode/
